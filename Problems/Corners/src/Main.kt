@@ -1,0 +1,1 @@
+println("${inputArray.first().first()} ${inputArray.first().last()}\n${inputArray.last().first()} ${inputArray.last().last()}")

@@ -1,0 +1,13 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: TODO()
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10959#comment
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/10959#comment">JetBrains
+    Academy</a></html>
+  time: Fri, 13 Nov 2020 01:31:15 UTC
+record: -1

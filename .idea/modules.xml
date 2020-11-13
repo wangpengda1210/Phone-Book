@@ -4,9 +4,12 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Phone_Book.iml" filepath="$PROJECT_DIR$/.idea/modules/Phone_Book.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Phone Book/task/Phone_Book.Phone_Book-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Phone Book/task/Phone_Book.Phone_Book-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Accordance/Phone_Book.Problems-Accordance.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Accordance/Phone_Book.Problems-Accordance.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Closed case/Phone_Book.Problems-Closed_case.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Closed case/Phone_Book.Problems-Closed_case.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Continuation-Passing Style/Phone_Book.Problems-Continuation-Passing_Style.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Continuation-Passing Style/Phone_Book.Problems-Continuation-Passing_Style.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Corners/Phone_Book.Problems-Corners.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Corners/Phone_Book.Problems-Corners.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Count the numbers/Phone_Book.Problems-Count_the_numbers.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Count the numbers/Phone_Book.Problems-Count_the_numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Cube of zeros/Phone_Book.Problems-Cube_of_zeros.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Cube of zeros/Phone_Book.Problems-Cube_of_zeros.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Duplication/Phone_Book.Problems-Duplication.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Duplication/Phone_Book.Problems-Duplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/First predicate/Phone_Book.Problems-First_predicate.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/First predicate/Phone_Book.Problems-First_predicate.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fourth root/Phone_Book.Problems-Fourth_root.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fourth root/Phone_Book.Problems-Fourth_root.iml" />
@@ -16,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Function generator/Phone_Book.Problems-Function_generator.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Function generator/Phone_Book.Problems-Function_generator.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Heron's formula/Phone_Book.Problems-Heron's_formula.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Heron's formula/Phone_Book.Problems-Heron's_formula.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Kings of Sweden/Phone_Book.Problems-Kings_of_Sweden.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Kings of Sweden/Phone_Book.Problems-Kings_of_Sweden.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Kotlin arrays/Phone_Book.Problems-Kotlin_arrays.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Kotlin arrays/Phone_Book.Problems-Kotlin_arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Max/Phone_Book.Problems-Max.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Max/Phone_Book.Problems-Max.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Max of four numbers/Phone_Book.Problems-Max_of_four_numbers.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Max of four numbers/Phone_Book.Problems-Max_of_four_numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Not  predicate/Phone_Book.Problems-Not__predicate.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Not  predicate/Phone_Book.Problems-Not__predicate.iml" />
@@ -24,6 +28,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Quadratic equation/Phone_Book.Problems-Quadratic_equation.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Quadratic equation/Phone_Book.Problems-Quadratic_equation.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Range multiplication/Phone_Book.Problems-Range_multiplication.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Range multiplication/Phone_Book.Problems-Range_multiplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Referential equality/Phone_Book.Problems-Referential_equality.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Referential equality/Phone_Book.Problems-Referential_equality.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Shapeshifter/Phone_Book.Problems-Shapeshifter.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Shapeshifter/Phone_Book.Problems-Shapeshifter.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Sine and cosine/Phone_Book.Problems-Sine_and_cosine.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Sine and cosine/Phone_Book.Problems-Sine_and_cosine.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The angle between vectors/Phone_Book.Problems-The_angle_between_vectors.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The angle between vectors/Phone_Book.Problems-The_angle_between_vectors.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The longest word/Phone_Book.Problems-The_longest_word.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The longest word/Phone_Book.Problems-The_longest_word.iml" />
