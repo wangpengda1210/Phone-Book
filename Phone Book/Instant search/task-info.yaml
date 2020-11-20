@@ -153,12 +153,6 @@ files:
         }
     }
   learner_created: false
-- name: src/phonebook/directory.txt
-  visible: true
-  learner_created: true
-- name: src/phonebook/find.txt
-  visible: true
-  learner_created: true
 feedback_link: https://hyperskill.org/projects/86/stages/479/implement#comment
 status: Solved
 feedback:
